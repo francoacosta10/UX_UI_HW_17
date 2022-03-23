@@ -52,7 +52,7 @@ header {
     width: 250px;
     height: 100%;
     object-fit: contain;
-    transform: translate(215%, 19%);
+    transform: translate(215%, 35%);
 }
 
 .model {
@@ -64,12 +64,15 @@ header {
     width: 100%;
     display: flex;
     position:absolute; 
-    background-color:#D8F2F2
+    background-color:#D8F2F2;
+    height: 1000px;
 }
 
 .main-text {
     width: 600px;
     background-color: white;
+    height: 600px;
+    margin: 70px 0 0 0;
 }
 
 .main-text h1 {
