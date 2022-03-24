@@ -111,11 +111,11 @@ header {
 }
 
 /* footer */
-body{
+body {
     min-height: 100vh;
 }
 
-.bottom{
+.bottom {
     position: sticky;
     top: 100%;
 }
